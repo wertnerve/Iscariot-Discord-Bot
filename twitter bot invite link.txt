@@ -1,0 +1,4 @@
+Twiiter VX Invite Link:
+
+https://discord.com/api/oauth2/authorize?client_id=1170897463817797693&permissions=8&scope=bot
+

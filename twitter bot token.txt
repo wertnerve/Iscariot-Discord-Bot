@@ -1,0 +1,2 @@
+DISCORD_TOKEN = MTE3MDg5NzQ2MzgxNzc5NzY5Mw.GjbIXD.XkWt3D3dKhA_YUZnOm4kcbiWpXKsKeDGtiusdo
+DISCORD_GUILD = Wert's Glass Log Cabin
