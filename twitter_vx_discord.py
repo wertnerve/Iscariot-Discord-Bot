@@ -12,7 +12,7 @@ load_dotenv()
 #TOKEN = os.getenv('DISCORD_TOKEN')
 #GUILD = os.getenv('DISCORD_GUILD')
 print('Starting up Jahnel Bot')
-TOKEN = 'MTE3MDg5NzQ2MzgxNzc5NzY5Mw.G31Bra.8wU8OPxXSVpkFm5dDJNZoTj0E1lMMTIaOyDrDQ'
+TOKEN = #######REDACTED
 print(TOKEN)
 
 # Define your bot's intents
