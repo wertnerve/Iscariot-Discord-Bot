@@ -7,7 +7,7 @@ import re
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
 GUILD = os.getenv('DISCORD_GUILD')
-TOKEN = 'MTE3MDg5NzQ2MzgxNzc5NzY5Mw.GjbIXD.XkWt3D3dKhA_YUZnOm4kcbiWpXKsKeDGtiusdo'
+TOKEN = 'ask ted'
 print(TOKEN)
 
 # Define your bot's intents
